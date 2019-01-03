@@ -1,0 +1,6 @@
+def hello():
+	      print('Hello world')
+
+
+
+#This is a function(hello()) that prints hello world anytime it is called.
