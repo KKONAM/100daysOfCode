@@ -1,0 +1,7 @@
+def jumpy():
+	      x = input('Enter your name: ')
+	      print('Hello ',x)
+        
+        
+        
+        # This is a function that accepts a username and prints Hello plus the username.
