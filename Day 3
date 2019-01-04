@@ -1,0 +1,7 @@
+def Day3():
+	x = input('Please Enter A Number: ')
+	y = int(x)
+	return sum(range(y))
+
+
+# This is a function that asks the user to input a number, n, and then returns the sum 1 to the number,n.
