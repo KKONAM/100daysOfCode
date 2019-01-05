@@ -1,6 +1,6 @@
 def Day3():
 	x = input('Please Enter A Number: ')
-	y = int(x)
+	y = int(x) + 1
 	return sum(range(y))
 
 
